@@ -1,0 +1,33 @@
+{"version_code":451951,"content":"
+<p>تحديث 5.50</p>
+<p>طريقة التحديث: اضغط على فتح ستفتح لك مقال الشرح انزل الى الروابط باللون الذهبي والازرق والاحمر اختر ما يناسبك، ثم ثبت الجديد بدون حذف النسخة القديمة</p>
+<p>اذا لم تستطيع التثبيت ادخل الى اعدادات الذهبي ثم عمل نسخة احتياطية ثم حذف القديمة وتثبيت الجديدة</p>
+
+<li>يمكنك إستعادة اي رسالة بعد إرسالها وسيتم حذفها من كل الاجهزة التي ارسلت لها</li>
+<li>يمكنك الان تعطيل التحميل التلقائي للوسائط لشخص واحد (في محادثة الشخص اضغط على اسم الشخص ثم التنزيل التلقائي للوسائط)</li>
+<li>يمكنك الان ارسال رسالة او الاتصال برقم غير محفوظ في جهازك اذهب الى قسم المكالمات</li>
+<li>إضافة الخيار رقم 5.5 لارسال الصور بالحجم والجودة الاصلية</li>
+<li>إمكانية إخفاء انك شاهدت حالة محادثة معينة(افتح بروفايل اي محادثة ثم الخصوصية)</li>
+<li>إمكانية اختيار مشغل الفيديو من خلال الخيار رقم 6.19</li>
+<li>الان عند استقبال او ارسال عدة صور سيتم تجميعهم في البوم</li>
+<li>إضافة الخيار رقم 6.17 لتعطيل عداد الرسائل على ايقونة البرنامج- اذا لم يظهر العداد ادخل للخيار 6.0 وقم بتغيير ايقونة البرنامج</li>
+<li>إضافة الخيار رقم 6.18 لاختيار محرك البحث الخاص بالصور المتحركة Giphy - Tenor</li>
+<li>يمكنك الان وضع حالة كتابية (الستوري)</li>
+<li>إصلاح عدم عمل whatsapp.log</li>
+
+<li>New Base Updated to 2.17.296 (PlayStore)</li>
+<li>Enable Recall feature(Now you can delete sent messages) (Select any message - open options and click recall)</li>
+<li>Added Dialer FAB on Calls Tab using which You can send Msg and Call to unsaved Nos. (Go to Calls Tab and Press the FAB for Keypad)</li>
+<li>Custom Media Auto-Download ( Now you can choose for which particular contact or group you want auto download)</li>
+<li>Custom Privacy for Hide View Status</li>
+<li>Back Now You can Play Videos in your Favourite external app (MX or any other) (Mod 6.19)</li>
+<li>Added Option to send Original Images(5.5)</li>
+<li>Unlocked Album Feature when send more than 3 Images.</li>
+<li>Now you can upload Text Status</li>
+<li>Added option for GIF Tenor/Giphy (Mod 6.18)</li>
+<li>Updated Message Scheduler - Now you can Edit Scheduled Messages</li>
+<li>Added Option to Disable Message Counter (Mod 6.17)- If not show Message Counter open (mod 6.0) and change icon</li>
+<li>Turkish Language Support</li>
+<li>Fixed WhatsApp.Log</li>
+","url":"http://watsabplusarab.com/whatsapp-plus-gold-abo3rab/?id=550"
+}
