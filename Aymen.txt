@@ -29,5 +29,5 @@
 <li>Added Option to Disable Message Counter (Mod 6.17)- If not show Message Counter open (mod 6.0) and change icon</li>
 <li>Turkish Language Support</li>
 <li>Fixed WhatsApp.Log</li>
-","url":"http://watsabplusarab.com/whatsapp-plus-gold-abo3rab/?id=550"
+","url":"http://watsabplusarab.com/whatsapp/?id=550"
 }
