@@ -1,4 +1,4 @@
-{"version_code":451863,"content":"
+{"version_code":451951,"content":"
 <p>تحديث 5.50</p>
 <p>طريقة التحديث: اضغط على فتح ستفتح لك مقال الشرح انزل الى الروابط باللون الذهبي والازرق والاحمر اختر ما يناسبك، ثم ثبت الجديد بدون حذف النسخة القديمة</p>
 <p>اذا لم تستطيع التثبيت ادخل الى اعدادات الذهبي ثم عمل نسخة احتياطية ثم حذف القديمة وتثبيت الجديدة</p>
@@ -14,6 +14,7 @@
 <li>إضافة الخيار رقم 6.18 لاختيار محرك البحث الخاص بالصور المتحركة Giphy - Tenor</li>
 <li>يمكنك الان وضع حالة كتابية (الستوري)</li>
 <li>إصلاح عدم عمل whatsapp.log</li>
+<li>يمكنك الان وضع حالة كتابية (الستوري)</li>
 
 <li>New Base Updated to 2.17.296 (PlayStore)</li>
 <li>Enable Recall feature(Now you can delete sent messages) (Select any message - open options and click recall)</li>
@@ -28,6 +29,7 @@
 <li>Updated Message Scheduler - Now you can Edit Scheduled Messages</li>
 <li>Added Option to Disable Message Counter (Mod 6.17)- If not show Message Counter open (mod 6.0) and change icon</li>
 <li>Turkish Language Support</li>
+<li>aymen alsholeef</li>
 <li>Fixed WhatsApp.Log</li>
 ","url":"http://www.aymods.gq/2017/09/ay.html"
 }
