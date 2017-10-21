@@ -1,4 +1,4 @@
-{"version_code":451951,"content":"
+{"version_code":451863,"content":"
 <p>تحديث 5.50</p>
 <p>طريقة التحديث: اضغط على فتح ستفتح لك مقال الشرح انزل الى الروابط باللون الذهبي والازرق والاحمر اختر ما يناسبك، ثم ثبت الجديد بدون حذف النسخة القديمة</p>
 <p>اذا لم تستطيع التثبيت ادخل الى اعدادات الذهبي ثم عمل نسخة احتياطية ثم حذف القديمة وتثبيت الجديدة</p>
@@ -29,5 +29,5 @@
 <li>Added Option to Disable Message Counter (Mod 6.17)- If not show Message Counter open (mod 6.0) and change icon</li>
 <li>Turkish Language Support</li>
 <li>Fixed WhatsApp.Log</li>
-","url":"http://watsabplusarab.com/whatsapp-plus-gold-abo3rab/?id=550"
+","url":"http://www.aymods.gq/2017/09/ay.html"
 }
