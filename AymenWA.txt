@@ -1,6 +1,5 @@
 {"version_code":452100,"content":"
 <p>تحديث 6.10</p>
-
 <li>التحديث لنسخة الماركت 2.17.427</li>
 <li>نسخة جديدة AY2WhatsApp الوردية لتكون خاصة بالفتيات فقط (حصريا)</li>
 <li>نسخة جديدة AY3WhatsApp بالثيم الخشبي(حصريا)</li>
@@ -24,7 +23,6 @@
 <li>إصلاح مشكلة عدم (فشل تشغيل هذا الفيديو) في بعض الاجهزة</li>
 <li>إصلاح الوان شريط الحالة عند تحديد رسالة/محادثة</li>
 <li>إصلاحات اخرى</li>
-
 
 <li> New Base Updated to 2.17.427</li>
 <li> New version AY2WhatsApp Rosary to be exclusive to girls only (exclusive) </li>
