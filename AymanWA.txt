@@ -1,4 +1,4 @@
-{"version_code":452191,"content":"
+{"version_code":451204,"content":"
 <p>تحديث 6.40</p>
 
 <li> تم اضافة بروكسي (vpn) داخل الواتساب</li>
