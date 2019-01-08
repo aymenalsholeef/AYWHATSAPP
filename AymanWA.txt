@@ -30,5 +30,5 @@
 <li> إصلاح مشكلة  الخيار 6.15 صورة مربعة</li>
 <li> إصلاح مشكلة البحث عن الثيمات</li>
 
-","url":"http://www.ayman-mods.blogspot.com/2017/09/aymods.html"
+","url":"https://aymanmods.blogspot.com/2019/01/aymods.html"
 }
